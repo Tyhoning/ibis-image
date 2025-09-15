@@ -13,7 +13,7 @@
 - [How to Contribute](#how-to-contribute)
 
 ## Repository Introduction  
-[Ibis](https://github.com/ibis-project/ibis)  is an open-source data framework library that allows users to use the same set of data frame operation APIs to manipulate various mainstream data computation frameworks, making it easier and more consistent for users to build their own data analysis and processing processes.
+[Ibis](https://github.com/ibis-project/ibis)  is an open-source data framework library that allows users to use the same set of data frame operation APIs to manipulate various mainstream data computation frameworks, making it easier and more consistent for users to build their own data analysis and processing processes.  
 **Core Features:**
 1. Multi engine support and flexibility: Ibis is compatible with nearly 20 backends, ensuring flexibility and wide applicability, including mainstream relational databases, big data platforms, and data warehouses.
 2. Unified API for cross engine compatibility: With powerful API support and rich backend compatibility, Ibis is not limited to local environments, but also compatible with multiple big data platforms, ensuring that it can easily handle most data analysis tasks in various scenarios.
